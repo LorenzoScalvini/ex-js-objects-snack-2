@@ -1,3 +1,4 @@
+// ES 4
 const chef = {
   name: 'Chef Hyur',
   age: 29,
